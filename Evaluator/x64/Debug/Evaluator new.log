@@ -1,0 +1,29 @@
+﻿  Boolean.cpp
+  Comma.cpp
+  Evaluator.cpp
+C:\Users\misha\source\repos\Evaluator new\LexemeFactory.h(22,2): warning C4091: static : пропускается слева от "LexemeFactory", когда ни одна переменная не объявлена
+  (компиляция исходного файла "Evaluator.cpp")
+  
+  InvalidNumberLexeme.cpp
+  InvalidOperation.cpp
+  Lexeme.cpp
+  LexemeFactory.cpp
+C:\Users\misha\source\repos\Evaluator new\LexemeFactory.h(22,2): warning C4091: static : пропускается слева от "LexemeFactory", когда ни одна переменная не объявлена
+  (компиляция исходного файла "LexemeFactory.cpp")
+  
+C:\Users\misha\source\repos\Evaluator new\LexemeFactory.cpp(118,7): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  main.cpp
+C:\Users\misha\source\repos\Evaluator new\LexemeFactory.h(22,2): warning C4091: static : пропускается слева от "LexemeFactory", когда ни одна переменная не объявлена
+  (компиляция исходного файла "main.cpp")
+  
+  Number.cpp
+  Operation.cpp
+C:\Users\misha\source\repos\Evaluator new\LexemeFactory.h(22,2): warning C4091: static : пропускается слева от "LexemeFactory", когда ни одна переменная не объявлена
+  (компиляция исходного файла "Operation.cpp")
+  
+  Parenthesis.cpp
+  TheEnd.cpp
+  Создание кода...
+C:\Users\misha\source\repos\Evaluator new\Operation.cpp(107,1): warning C4715: Operation::GreaterThanOrEqualTo: значение возвращается не при всех путях выполнения
+C:\Users\misha\source\repos\Evaluator new\Operation.cpp(98,1): warning C4715: Operation::EqualTo: значение возвращается не при всех путях выполнения
+  Evaluator new.vcxproj -> C:\Users\misha\source\repos\Evaluator new\x64\Debug\Evaluator new.lib

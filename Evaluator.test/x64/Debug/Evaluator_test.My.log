@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Evaluator.test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  test.cpp
+C:\Users\misha\source\repos\Evaluator new\Evaluator\LexemeFactory.h(22,2): warning C4091: static : пропускается слева от "LexemeFactory", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/test.cpp")
+  
+  Evaluator_test.My.vcxproj -> C:\Users\misha\source\repos\Evaluator new\x64\Debug\Evaluator_test.My.exe

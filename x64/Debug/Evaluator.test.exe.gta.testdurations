@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\misha\source\repos\Evaluator\x64\Debug\Evaluator.test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="LexemeFactoryTest.CreateCommaIsOK" Duration="1" />
+    <TestDuration Test="LexemeFactoryTest.CreateOpeningParenthesIsOK" Duration="1" />
+    <TestDuration Test="LexemeFactoryTest.CreateClosingParenthesIsOK" Duration="1" />
+    <TestDuration Test="LexemeFactoryTest.CreateTrueBooleanisIsOK" Duration="1" />
+    <TestDuration Test="LexemeFactoryTest.CreateFalseBooleanIsOK" Duration="1" />
+    <TestDuration Test="LexemeFactoryTest.CreateNumberIsOK" Duration="1" />
+    <TestDuration Test="LexemeFactoryTest.CreateArithmeticOperationIsOK" Duration="1" />
+    <TestDuration Test="LexemeFactoryTest.CreateConditionOperationIsOK" Duration="1" />
+    <TestDuration Test="EvaluateTest.GreaterThanEvaluateIsOK" Duration="1" />
+    <TestDuration Test="EvaluateTest.AddEvaluateIsOK" Duration="1" />
+    <TestDuration Test="EvaluateTest.EvaluateIsOK" Duration="2" />
+    <TestDuration Test="EvaluateTest.SubEvaluateIsOK" Duration="1" />
+    <TestDuration Test="EvaluateTest.MulEvaluateIsOK" Duration="1" />
+    <TestDuration Test="EvaluateTest.OrEvaluateIsOK" Duration="4" />
+    <TestDuration Test="EvaluateTest.AndEvaluateIsOK" Duration="2" />
+    <TestDuration Test="EvaluateTest.ParenthesisExpressionEvaluateIsOK" Duration="4" />
+    <TestDuration Test="EvaluateTest.VariableProviderEvaluateIsOK" Duration="2" />
+    <TestDuration Test="EvaluateTest.AndWithVariableProviderEvaluateIsOK" Duration="4" />
+    <TestDuration Test="EvaluateTest.BoolVariableEvaluateIsOK" Duration="2" />
+  </TestDurations>
+</GtaTestDurations>
