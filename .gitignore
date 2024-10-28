@@ -7,15 +7,15 @@
 *.ncb
 *.sdf
 *.opensdf
-*.vcxproj.user
-*.vcxproj.filters
+**/*.vcxproj.user
+**/*.vcxproj.filters
 
 # Билды
-Debug/
-Release/
-x64/
-x86/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
 
 # Логи
-*.log
-*.tlog/
+**/*.log
+**/*.tlog/
