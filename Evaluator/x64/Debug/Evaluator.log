@@ -1,3 +1,16 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Evaluator new.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Boolean.cpp
+  Comma.cpp
   Evaluator.cpp
+  Identificator.cpp
+  Lexeme.cpp
+  LexemeFactory.cpp
+C:\Users\misha\source\repos\Evaluator\Evaluator\LexemeFactory.cpp(102,7): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  Number.cpp
+  Operation.cpp
+  Parenthesis.cpp
+  TheEnd.cpp
+  Создание кода...
+C:\Users\misha\source\repos\Evaluator\Evaluator\Operation.cpp(98,1): warning C4715: Operation::EqualTo: значение возвращается не при всех путях выполнения
+C:\Users\misha\source\repos\Evaluator\Evaluator\Operation.cpp(107,1): warning C4715: Operation::GreaterThanOrEqualTo: значение возвращается не при всех путях выполнения
   Evaluator.vcxproj -> C:\Users\misha\source\repos\Evaluator\x64\Debug\Evaluator.lib
