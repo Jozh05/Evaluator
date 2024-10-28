@@ -1,3 +1,4 @@
+# Visual Studio
 .vs/
 *.suo
 *.user
@@ -8,11 +9,13 @@
 *.opensdf
 *.vcxproj.user
 *.vcxproj.filters
-*.pdb
-*.idb
-*.ipch/
-*.log
-*.tlog/
+
+# Билды
 Debug/
 Release/
 x64/
+x86/
+
+# Логи
+*.log
+*.tlog/
